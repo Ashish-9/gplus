@@ -68,7 +68,7 @@
                         experience and understand the relevance of theatre; in context of our human relationships,
                         culture and
                         stereotypes.</p>
-                    <a href="#" class="text-light">More Info</a>
+                    <a href="#festival_div" class="text-light">More Info</a>
                 </div>
                 <div class="col-6 txt" style="padding:2px">
                     <div class="col-12">
