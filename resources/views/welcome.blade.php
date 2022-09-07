@@ -568,69 +568,69 @@ section {
         <div class="container">
             <div class="slick-carousel">
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://www.ncs.gov.in/" target="_blank" rel="noopener noreferrer"
+                    <div class="card-body"><a href="#" target="_blank" rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/ncs.png"></a></div>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a></div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://www.india.gov.in/" target="_blank"
+                    <div class="card-body"><a href="#" target="_blank"
                             rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/india-portal.jpg"></a>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a>
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://www.makeinindia.com/" target="_blank"
+                    <div class="card-body"><a href="#" target="_blank"
                             rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/make-in-india.jpg"></a>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a>
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://www.mygov.in/" target="_blank" rel="noopener noreferrer"
+                    <div class="card-body"><a href="#" target="_blank" rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/my-gov.jpg"></a></div>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a></div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://pmnrf.gov.in/en/" target="_blank"
+                    <div class="card-body"><a href="#" target="_blank"
                             rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/pmnrf.jpg"></a></div>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a></div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://www.digitalindia.gov.in/" target="_blank"
+                    <div class="card-body"><a href="#" target="_blank"
                             rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/digital.png"></a>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a>
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://www.pmindia.gov.in/en/" target="_blank"
+                    <div class="card-body"><a href="#" target="_blank"
                             rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/pm-india.jpg"></a>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a>
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://swachhbharat.mygov.in/" target="_blank"
+                    <div class="card-body"><a href="#" target="_blank"
                             rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/swachhbharat.jpg"></a>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a>
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <div class="card-body"><a href="https://eci.gov.in/" target="_blank" rel="noopener noreferrer"
+                    <div class="card-body"><a href="#" target="_blank" rel="noopener noreferrer"
                             onclick="return confirm('You are being redirected to an external website.')"><img
                                 class="logo"
-                                src="https://employment.assam.gov.in/assets/img/footer-slider/eci.png"></a></div>
+                                src="{{ asset('assets/img/sample1.jpg') }}"></a></div>
                 </div>
             </div>
         </div>
